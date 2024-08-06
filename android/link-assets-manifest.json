@@ -1,0 +1,129 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/Assets/Fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "App/Assets/Fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "App/Assets/Fonts/icomoon.ttf",
+      "sha1": "4d0539f69d4c7b0b5e52e55d9fcfb05ae787cb0f"
+    },
+    {
+      "path": "App/Images/Icons/back-button@2x.png",
+      "sha1": "f1298f047e79638fc3c99e81c3bf42753c33ac6c"
+    },
+    {
+      "path": "App/Images/Icons/chevron-right@2x.png",
+      "sha1": "3fd5fcc3305d84c18d47425d46276ab482715be8"
+    },
+    {
+      "path": "App/Images/Icons/close-button.png",
+      "sha1": "60ad3104067a982039a9e5e4734efaabaf0ec649"
+    },
+    {
+      "path": "App/Images/Icons/close-button@2x.png",
+      "sha1": "5b264f70923fc7d522213a56463b28a2d63cd97e"
+    },
+    {
+      "path": "App/Images/Icons/close-button@3x.png",
+      "sha1": "80684c64e0667668b47032249987e36f10e9a4ae"
+    },
+    {
+      "path": "App/Images/Icons/faq-icon.png",
+      "sha1": "fe38a22d0304b1b737d84fce9681143e57e6efd2"
+    },
+    {
+      "path": "App/Images/Icons/faq-icon@2x.png",
+      "sha1": "b68401d02121d1d9c152b672f8694a6f26d0ae88"
+    },
+    {
+      "path": "App/Images/Icons/faq-icon@3x.png",
+      "sha1": "a61adb28acb7dcf9d0b4bbe0ba09665188dbd302"
+    },
+    {
+      "path": "App/Images/Icons/hamburger@2x.png",
+      "sha1": "fc844018ec495d44fd572efc0518b978f25381d5"
+    },
+    {
+      "path": "App/Images/Icons/icon-api-testing@2x.png",
+      "sha1": "c20e038900010205ba65eb923c82493e7f5544ac"
+    },
+    {
+      "path": "App/Images/Icons/icon-components@2x.png",
+      "sha1": "375980656e5f19dd793023b64b2a7d659e776684"
+    },
+    {
+      "path": "App/Images/Icons/icon-device-information@2x.png",
+      "sha1": "de0794c303492a582b2016af77e249c814cb7971"
+    },
+    {
+      "path": "App/Images/Icons/icon-home@2x.png",
+      "sha1": "40cb060e281271d8bacd81d69ccd6330278fef02"
+    },
+    {
+      "path": "App/Images/Icons/icon-theme@2x.png",
+      "sha1": "d2427175c47a68c2df6a3a30e3d1d69b89d80e14"
+    },
+    {
+      "path": "App/Images/Icons/icon-usage-examples@2x.png",
+      "sha1": "ae6cf4eddbd85685bf47a524afff696b26843071"
+    },
+    {
+      "path": "App/Images/LoginBackground.png",
+      "sha1": "5b18be716168a388277d0822c91c51bbd9b19c94"
+    },
+    {
+      "path": "App/Images/app_icon.png",
+      "sha1": "72fdd73c4a30311441561221402570bc427ee5e5"
+    },
+    {
+      "path": "App/Images/app_logo.png",
+      "sha1": "6385388f7d408b1ab124bc2a8b34f1893138e989"
+    },
+    {
+      "path": "App/Images/creator_logo.png",
+      "sha1": "0f4c7e938658a48630e3448cc01fede69818f36e"
+    },
+    {
+      "path": "App/Images/profile_placeholder.png",
+      "sha1": "1f0be9bc9095788730e22678d0afd7d462c101d3"
+    },
+    {
+      "path": "App/Images/welcome_image.png",
+      "sha1": "ac7f2177d2b73b02831a5b5bb889d816f52fc8c1"
+    }
+  ]
+}
